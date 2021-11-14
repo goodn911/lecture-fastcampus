@@ -7,6 +7,10 @@ public class Main {
 
         int num1 = 1;
         int sum=0;
+        String str = "ABCDEFG";
+
+        System.out.println(str.substring(3));
+        System.out.println(str.substring(3,6));
 
         while (num1<=10){
             sum += num1;
