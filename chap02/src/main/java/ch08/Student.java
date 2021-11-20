@@ -22,5 +22,6 @@ public class Student {
 
     public void shouInfo(){
         System.out.println(studentName+"돈은"+money);
+
     }
 }
